@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "ウェブカメラ"
 msgid "웹캠"
-msgstr "웹캠"
+msgstr "ウェブカメラ"
 
 msgctxt "マイク"
 msgid "마이크"
