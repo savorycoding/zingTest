@@ -1,0 +1,216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-05 01:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: ko_KR\n"
+"X-Generator: Loco https://localise.biz/"
+
+msgctxt "ウェブカメラ"
+msgid "웹캠"
+msgstr ""
+
+msgctxt "マイク"
+msgid "마이크"
+msgstr ""
+
+msgid "얼굴"
+msgstr ""
+
+msgid "음성"
+msgstr ""
+
+msgid "인식"
+msgstr ""
+
+msgid "면접"
+msgstr ""
+
+msgid "AI면접"
+msgstr ""
+
+msgid "확인"
+msgstr ""
+
+msgid "이름"
+msgstr ""
+
+msgid "응시코드"
+msgstr ""
+
+msgid "마우스"
+msgstr ""
+
+msgid "실패"
+msgstr ""
+
+msgid "안면 등록"
+msgstr ""
+
+msgid "문제"
+msgstr ""
+
+msgid "질문"
+msgstr ""
+
+msgid "키보드"
+msgstr ""
+
+msgid "응시 완료"
+msgstr ""
+
+msgid "시작하기"
+msgstr ""
+
+msgid "게임"
+msgstr ""
+
+msgid "이전"
+msgstr ""
+
+msgid "다음"
+msgstr ""
+
+msgid "예시"
+msgstr ""
+
+msgid "준비"
+msgstr ""
+
+msgid "응답"
+msgstr ""
+
+msgid "초기화"
+msgstr ""
+
+msgid "점수"
+msgstr ""
+
+msgid "정답"
+msgstr ""
+
+msgid "보기"
+msgstr ""
+
+msgid "취소"
+msgstr ""
+
+msgid "연습"
+msgstr ""
+
+msgid "응시자"
+msgstr ""
+
+msgid "응시기간"
+msgstr ""
+
+msgid "연장"
+msgstr ""
+
+msgid "로그아웃"
+msgstr ""
+
+msgid "관리"
+msgstr ""
+
+msgid "등록"
+msgstr ""
+
+msgid "목록"
+msgstr ""
+
+msgid "결과"
+msgstr ""
+
+msgid "커스터마이징"
+msgstr ""
+
+msgid "재직자"
+msgstr ""
+
+msgid "메일"
+msgstr ""
+
+msgid "발송"
+msgstr ""
+
+msgid "미응시"
+msgstr ""
+
+msgid "미완료"
+msgstr ""
+
+msgid "설정"
+msgstr ""
+
+msgid "결과표"
+msgstr ""
+
+msgid "진행"
+msgstr ""
+
+msgid "삭제"
+msgstr ""
+
+msgid "직군"
+msgstr ""
+
+msgid "직무"
+msgstr ""
+
+msgid "이메일"
+msgstr ""
+
+msgid "생년월일"
+msgstr ""
+
+msgid "수정"
+msgstr ""
+
+msgid "남"
+msgstr ""
+
+msgid "녀"
+msgstr ""
+
+msgid "생각시간"
+msgstr ""
+
+msgid "답변시간"
+msgstr ""
+
+msgid "닫기"
+msgstr ""
+
+msgid "서비스"
+msgstr ""
+
+msgid "사진"
+msgstr ""
+
+msgid "응시사이트"
+msgstr ""
+
+msgid "안내"
+msgstr ""
+
+msgid "적용"
+msgstr ""
+
+msgid "미리보기"
+msgstr ""
+
+msgid "분석"
+msgstr ""
+
+msgid "해석가이드"
+msgstr ""
