@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "Project-Id-Version: Loco Demo\n"
 "Report-Msgid-Bugs-To: \n"
@@ -16,35 +16,35 @@ msgstr ""
 
 msgctxt "ウェブカメラ"
 msgid "웹캠"
-msgstr "ウェブカメラ"
+msgstr "웹캠"
 
 msgctxt "マイク"
 msgid "마이크"
-msgstr "マイク"
+msgstr "마이크"
 
 msgid "얼굴"
-msgstr "顔"
+msgstr "얼굴"
 
 msgid "음성"
-msgstr "音声"
+msgstr "음성"
 
 msgid "인식"
-msgstr "認識"
+msgstr "인식"
 
 msgid "면접"
-msgstr "面接"
+msgstr "면접"
 
 msgid "AI면접"
 msgstr "AI面接"
 
 msgid "확인"
-msgstr "確認"
+msgstr "확인"
 
 msgid "이름"
-msgstr "名前"
+msgstr "お名前"
 
 msgid "응시코드"
-msgstr "応試コード"
+msgstr "面接コード"
 
 msgid "마우스"
 msgstr "マウス"
@@ -53,130 +53,130 @@ msgid "실패"
 msgstr "失敗"
 
 msgid "안면 등록"
-msgstr "顔面登録"
+msgstr "안면 등록"
 
 msgid "문제"
 msgstr "問題"
 
 msgid "질문"
-msgstr "質問"
+msgstr "질문"
 
 msgid "키보드"
 msgstr "キーボード"
 
 msgid "응시 완료"
-msgstr "応試完了"
+msgstr "受験完了"
 
 msgid "시작하기"
-msgstr "スタート"
+msgstr "開始する"
 
 msgid "게임"
 msgstr "ゲーム"
 
 msgid "이전"
-msgstr "戻る"
+msgstr "前"
 
 msgid "다음"
-msgstr "次へ"
+msgstr "次の"
 
 msgid "예시"
 msgstr "例示"
 
 msgid "준비"
-msgstr "準備"
+msgstr "준비"
 
 msgid "응답"
-msgstr "応答"
+msgstr "응답"
 
 msgid "초기화"
 msgstr "リセット"
 
 msgid "점수"
-msgstr "スコア"
+msgstr "점수"
 
 msgid "정답"
-msgstr "正解"
+msgstr "정답"
 
 msgid "보기"
-msgstr "選択肢"
+msgstr "表示"
 
 msgid "취소"
 msgstr "キャンセル"
 
 msgid "연습"
-msgstr "練習"
+msgstr "연습"
 
 msgid "응시자"
-msgstr "応募者"
+msgstr "응시자"
 
 msgid "응시기간"
-msgstr "応試期間"
+msgstr "응시기간"
 
 msgid "연장"
-msgstr "延長"
+msgstr "연장"
 
 msgid "로그아웃"
-msgstr "ログアウト"
+msgstr "로그아웃"
 
 msgid "관리"
-msgstr "管理"
+msgstr "관리"
 
 msgid "등록"
-msgstr "登録"
+msgstr "등록"
 
 msgid "목록"
-msgstr "リスト"
+msgstr "목록"
 
 msgid "결과"
-msgstr "結果"
+msgstr "결과"
 
 msgid "커스터마이징"
-msgstr "カスタマイズ"
+msgstr "커스터마이징"
 
 msgid "재직자"
-msgstr "在職者"
+msgstr "재직자"
 
 msgid "메일"
-msgstr "メール"
+msgstr "메일"
 
 msgid "발송"
-msgstr "発送"
+msgstr "발송"
 
 msgid "미응시"
-msgstr "未受験"
+msgstr "미응시"
 
 msgid "미완료"
-msgstr "未完了"
+msgstr "미완료"
 
 msgid "설정"
-msgstr "設定"
+msgstr "설정"
 
 msgid "결과표"
-msgstr "結果表"
+msgstr "결과표"
 
 msgid "진행"
-msgstr "進行"
+msgstr "진행"
 
 msgid "삭제"
-msgstr "削除"
+msgstr "삭제"
 
 msgid "직군"
-msgstr "職群"
+msgstr "직군"
 
 msgid "직무"
-msgstr "職務"
+msgstr "직무"
 
 msgid "이메일"
-msgstr "電子メール"
+msgstr "이메일"
 
 msgid "생년월일"
-msgstr "生年月日"
+msgstr "생년월일"
 
 msgid "수정"
-msgstr "修正"
+msgstr "수정"
 
 msgid "남"
-msgstr "男"
+msgstr "남"
 
 msgid "녀"
 msgstr "녀"
@@ -188,28 +188,28 @@ msgid "답변시간"
 msgstr "回答時間"
 
 msgid "닫기"
-msgstr "閉じる"
+msgstr "닫기"
 
 msgid "서비스"
-msgstr "サービス"
+msgstr "서비스"
 
 msgid "사진"
-msgstr "写真"
+msgstr "사진"
 
 msgid "응시사이트"
-msgstr "応試サイト"
+msgstr "응시사이트"
 
 msgid "안내"
-msgstr "案内"
+msgstr "안내"
 
 msgid "적용"
-msgstr "適用"
+msgstr "적용"
 
 msgid "미리보기"
-msgstr "プレビュー"
+msgstr "미리보기"
 
 msgid "분석"
-msgstr "分析"
+msgstr "분석"
 
 msgid "해석가이드"
-msgstr "解釈ガイド"
+msgstr "해석가이드"
