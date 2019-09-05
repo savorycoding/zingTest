@@ -1,216 +1,215 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Loco Demo\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-05 01:27+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2019-09-05 14:41+0900\n"
 "Language-Team: \n"
-"Language: \n"
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Loco-Source-Locale: ko_KR\n"
-"X-Generator: Loco https://localise.biz/"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: \n"
+"Language: ja\n"
 
 msgctxt "ウェブカメラ"
 msgid "웹캠"
-msgstr ""
+msgstr "ウェブカメラ"
 
 msgctxt "マイク"
 msgid "마이크"
-msgstr ""
+msgstr "マイク"
 
 msgid "얼굴"
-msgstr ""
+msgstr "顔"
 
 msgid "음성"
-msgstr ""
+msgstr "音声"
 
 msgid "인식"
-msgstr ""
+msgstr "認識"
 
 msgid "면접"
-msgstr ""
+msgstr "面接"
 
 msgid "AI면접"
-msgstr ""
+msgstr "AI面接"
 
 msgid "확인"
-msgstr ""
+msgstr "確認"
 
 msgid "이름"
-msgstr ""
+msgstr "名前"
 
 msgid "응시코드"
-msgstr ""
+msgstr "応試コード"
 
 msgid "마우스"
-msgstr ""
+msgstr "マウス"
 
 msgid "실패"
-msgstr ""
+msgstr "失敗"
 
 msgid "안면 등록"
-msgstr ""
+msgstr "顔面登録"
 
 msgid "문제"
-msgstr ""
+msgstr "問題"
 
 msgid "질문"
-msgstr ""
+msgstr "質問"
 
 msgid "키보드"
-msgstr ""
+msgstr "キーボード"
 
 msgid "응시 완료"
-msgstr ""
+msgstr "応試完了"
 
 msgid "시작하기"
-msgstr ""
+msgstr "スタート"
 
 msgid "게임"
-msgstr ""
+msgstr "ゲーム"
 
 msgid "이전"
-msgstr ""
+msgstr "戻る"
 
 msgid "다음"
-msgstr ""
+msgstr "次へ"
 
 msgid "예시"
-msgstr ""
+msgstr "例示"
 
 msgid "준비"
-msgstr ""
+msgstr "準備"
 
 msgid "응답"
-msgstr ""
+msgstr "応答"
 
 msgid "초기화"
-msgstr ""
+msgstr "リセット"
 
 msgid "점수"
-msgstr ""
+msgstr "スコア"
 
 msgid "정답"
-msgstr ""
+msgstr "正解"
 
 msgid "보기"
-msgstr ""
+msgstr "選択肢"
 
 msgid "취소"
-msgstr ""
+msgstr "キャンセル"
 
 msgid "연습"
-msgstr ""
+msgstr "練習"
 
 msgid "응시자"
-msgstr ""
+msgstr "応募者"
 
 msgid "응시기간"
-msgstr ""
+msgstr "応試期間"
 
 msgid "연장"
-msgstr ""
+msgstr "延長"
 
 msgid "로그아웃"
-msgstr ""
+msgstr "ログアウト"
 
 msgid "관리"
-msgstr ""
+msgstr "管理"
 
 msgid "등록"
-msgstr ""
+msgstr "登録"
 
 msgid "목록"
-msgstr ""
+msgstr "リスト"
 
 msgid "결과"
-msgstr ""
+msgstr "結果"
 
 msgid "커스터마이징"
-msgstr ""
+msgstr "カスタマイズ"
 
 msgid "재직자"
-msgstr ""
+msgstr "在職者"
 
 msgid "메일"
-msgstr ""
+msgstr "メール"
 
 msgid "발송"
-msgstr ""
+msgstr "発送"
 
 msgid "미응시"
-msgstr ""
+msgstr "未受験"
 
 msgid "미완료"
-msgstr ""
+msgstr "未完了"
 
 msgid "설정"
-msgstr ""
+msgstr "設定"
 
 msgid "결과표"
-msgstr ""
+msgstr "結果表"
 
 msgid "진행"
-msgstr ""
+msgstr "進行"
 
 msgid "삭제"
-msgstr ""
+msgstr "削除"
 
 msgid "직군"
-msgstr ""
+msgstr "職群"
 
 msgid "직무"
-msgstr ""
+msgstr "職務"
 
 msgid "이메일"
-msgstr ""
+msgstr "電子メール"
 
 msgid "생년월일"
-msgstr ""
+msgstr "生年月日"
 
 msgid "수정"
-msgstr ""
+msgstr "修正"
 
 msgid "남"
-msgstr ""
+msgstr "男"
 
 msgid "녀"
-msgstr ""
+msgstr "녀"
 
 msgid "생각시간"
-msgstr ""
+msgstr "考え時間"
 
 msgid "답변시간"
-msgstr ""
+msgstr "回答時間"
 
 msgid "닫기"
-msgstr ""
+msgstr "閉じる"
 
 msgid "서비스"
-msgstr ""
+msgstr "サービス"
 
 msgid "사진"
-msgstr ""
+msgstr "写真"
 
 msgid "응시사이트"
-msgstr ""
+msgstr "応試サイト"
 
 msgid "안내"
-msgstr ""
+msgstr "案内"
 
 msgid "적용"
-msgstr ""
+msgstr "適用"
 
 msgid "미리보기"
-msgstr ""
+msgstr "プレビュー"
 
 msgid "분석"
-msgstr ""
+msgstr "分析"
 
 msgid "해석가이드"
-msgstr ""
+msgstr "解釈ガイド"
